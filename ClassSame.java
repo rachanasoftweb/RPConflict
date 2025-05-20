@@ -1,6 +1,6 @@
 public class ClassSame {
-    public void hello() {
-        System.out.println("Hello from GDgit ");
+    //Same name class create by both but created by RP on 4:45 PM.
+    public void hello(){
+        System.out.println("Hello from RP.");
     }
-    //This is added by Gd 4:44
 }
